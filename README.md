@@ -60,7 +60,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-articles](backend/modules)
 - [react-native-maps](modules/maps)
-- [camera]()
 - [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
