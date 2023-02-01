@@ -11,7 +11,7 @@ const Untitled1 = ({
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><Pressable onPress={() => navigation.navigation.navigate("Untitled2", {})}><View style={styles.CLxVXvfx}></View></Pressable></ScrollView>
+    }}><Pressable onPress={() => navigation.navigation.navigate("undefined", {})}><View style={styles.CLxVXvfx}></View></Pressable></ScrollView>
     </SafeAreaView>;
 };
 
